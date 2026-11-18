@@ -50,11 +50,12 @@ High / Medium / Low
 <!-- For a bug fix, explain how the change resolves the root cause. -->
 
 ## Testing
-- [ ] Unit tests added / updated in Tests/
-- [ ] Integration tests pass / business logic tested
-- [ ] Manually tested via Swagger / Postman
-- [ ] No Build errors (pipeline)
-- [ ] No warnings in build output (optional)
+- [ ] Unit tests added / updated 
+- [ ] Integration tests pass 
+- [ ] Business logic tested
+- [ ] Manually tested via Scalar
+- [ ] No Build errors
+- [ ] No warnings in build output
 
 **Steps to test:**
 <!-- we should be precise about the steps to make sure we are including all the possible cases -->

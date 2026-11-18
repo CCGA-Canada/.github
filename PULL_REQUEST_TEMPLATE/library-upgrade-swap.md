@@ -79,7 +79,7 @@ High / Medium / Low
 ## Testing
 - [ ] All existing unit tests pass
 - [ ] Integration tests pass end-to-end
-- [ ] Manually tested via Swagger on staging (only in the scope of the library)
+- [ ] Manually tested via Scalar on staging (only in the scope of the library)
 - [ ] Build output has no warnings
 
 ## Rollback Plan
